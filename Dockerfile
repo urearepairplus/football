@@ -1,3 +1,6 @@
+
+# wir fügen jetzt hier ein fix ein 
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
