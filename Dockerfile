@@ -1,5 +1,5 @@
-
-# wir fügen jetzt hier ein fix ein 
+# 2. Fix Docker
+# wir fügen jetzt hier ein fix ein
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
